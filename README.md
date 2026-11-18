@@ -120,7 +120,7 @@ In `src/app/_layout.js`, `AppState.addEventListener('change', ...)` detects when
 
 ```bash
 # Clone
-git clone https://github.com/<your-username>/UniEvents.git
+git clone https://github.com/Inuri1996/FGS_MSC_CS_2025_019_UniEvents.git
 cd UniEvents
 
 # Install dependencies
